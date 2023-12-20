@@ -1,0 +1,30 @@
+Endpoint URL
+
+https://retoolapi.dev/uYypSD/data
+
+
+HTTP method endpoints
+	GET /uYypSD/data
+	GET filter /uYypSD/data?vevoNev=value
+	GET by id /uYypSD/data/1
+	GET paginate /uYypSD/data?_page=2&_limit=10
+	POST /uYypSD/data
+	PUT /uYypSD/data/1
+	PATCH /uYypSD/data/1
+	DELETE /uYypSD/data/1
+	
+	
+0	
+id	1
+email	"prawlingson5m@imgur.com"
+vevoNev	"Domini Oliver"
+telepules	"Riverton, Utah, United States"
+erdeklodes	"Knitting"
+
+1	
+id	2
+email	"sloache34@wisc.edu"
+vevoNev	"Way Eich"
+telepules	"Alameda, California, United States"
+erdeklodes	"Sewing"
+	
